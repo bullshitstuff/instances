@@ -42,9 +42,7 @@
     "nitter.it",
     "twitter.censors.us",
     "nitter.grimneko.de",
-    "nitter.koyu.space",
     "nitter.alefvanoon.xyz",
-    "nitter.autarkic.org",
     "n.hyperborea.cloud",
     "nitter.ca",
     "twitter.076.ne.jp",
@@ -132,7 +130,8 @@
     "translate.riverside.rocks",
     "manerakai.asuscomm.com:447",
     "translate.bus-hit.me",
-    "simplytranslate.pussthecat.org"
+    "simplytranslate.pussthecat.org",
+    "translate.northboot.xyz"
   ],
   "searx": [
     "3afisqjw2rxm6z7mmstyt5rx75qfqrgxnkzftknbp2vhipr2nrmrjdyd.onion",
@@ -173,6 +172,7 @@
     "search.jpope.org",
     "search.mdosch.de",
     "search.4bkxscubgtxwvhpe.onion",
+    "search.neet.works",
     "search.ononoki.org",
     "search.snopyta.org",
     "juy4e6eicawzdrz7.onion",
@@ -190,7 +190,6 @@
     "searx.dresden.network",
     "searx.esmailelbob.xyz",
     "searx.everdot.org",
-    "searx.feneas.org",
     "searx.fmac.xyz",
     "searx.fossencdi.org",
     "searx.cwuzdtzlubq5uual.onion",
@@ -268,5 +267,15 @@
     "whooglesearch.net",
     "www.whooglesearch.ml",
     "whoogle.dcs0.hu"
+  ],
+  "rimgo": [
+    "i.bcow.xyz",
+    "rimgo.bcow.xyz",
+    "rimgo.pussthecat.org",
+    "img.riverside.rocks",
+    "rimgo.totaldarkness.net",
+    "rimgo.bus-hit.me",
+    "l4d4owboqr6xcmd6lf64gbegel62kbudu3x3jnldz2mx6mhn3bsv3zyd.onion",
+    "jx3dpcwedpzu2mh54obk5gvl64i2ln7pt5mrzd75s4jnndkqwzaim7ad.onion"
   ]
 }
