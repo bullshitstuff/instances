@@ -110,6 +110,11 @@ for instanceLink in tmpList:
 mightyList["whoogle"] = whoogleList
 print("Wrote Whoogle")
 
+# Rimgo
+r = requests.get('https://codeberg.org/video-prize-ranch/rimgo/raw/branch/main/instances.json')
+rJson = json.loads(r.text)
+mightyList["rimgo"] = rJson
+print("Wrote Rimgo")
 
 # Writing to file
 json_object = json.dumps(mightyList, ensure_ascii=False, indent=2)
