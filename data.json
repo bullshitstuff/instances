@@ -3,6 +3,7 @@
     "yewtu.be",
     "vid.puffyan.us",
     "invidious.snopyta.org",
+    "invidious.kavin.rocks",
     "invidio.xamh.de",
     "inv.riverside.rocks",
     "invidious-us.kavin.rocks",
@@ -18,7 +19,6 @@
     "invidious.privacy.gd",
     "youtube.076.ne.jp",
     "invidious.namazso.eu",
-    "invidious.kavin.rocks",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
     "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
     "kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion",
@@ -115,7 +115,6 @@
   "teddit": [
     "teddit.net",
     "teddit.ggc-project.de",
-    "teddit.kavin.rocks",
     "teddit.zaggy.nl",
     "teddit.namazso.eu",
     "teddit.nautolan.racing",
@@ -130,14 +129,19 @@
     "teddit.sethforprivacy.com",
     "teddit.totaldarkness.net",
     "teddit.adminforge.de",
-    "teddit.bus-hit.me"
+    "teddit.bus-hit.me",
+    "teddit.froth.zone",
+    "trom.tf"
   ],
   "wikiless": [
     "wikiless.org",
     "wikiless.alefvanoon.xyz",
     "wikiless.sethforprivacy.com",
     "wiki.604kph.xyz",
-    "dj2tbh2nqfxyfmvq33cjmhuw7nb6am7thzd3zsjvizeqf374fixbrxyd.onion"
+    "wikiless.lunar.icu",
+    "dj2tbh2nqfxyfmvq33cjmhuw7nb6am7thzd3zsjvizeqf374fixbrxyd.onion",
+    "c2pesewpalbi6lbfc5hf53q4g3ovnxe4s7tfa6k2aqkf7jd7a7dlz5ad.onion",
+    "hflqp2ejxygpj6cdwo3ogfieqmxw3b56w7dblt7bor2ltwk6kcfa.b32.i2p"
   ],
   "scribe": [
     "scribe.rip",
