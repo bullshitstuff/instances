@@ -1,7 +1,6 @@
 {
   "invidious": [
     "yewtu.be",
-    "vid.puffyan.us",
     "invidious.snopyta.org",
     "invidious.kavin.rocks",
     "inv.riverside.rocks",
@@ -16,9 +15,10 @@
     "inv.bp.projectsegfau.lt",
     "invidious.projectsegfau.lt",
     "invidious.weblibre.org",
-    "invidious.esmailelbob.xyz",
     "youtube.076.ne.jp",
+    "invidious.esmailelbob.xyz",
     "invidious.namazso.eu",
+    "vid.puffyan.us",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
     "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
     "kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion",
@@ -233,6 +233,7 @@
     "searx.loafland.xyz",
     "searx.mastodontech.de",
     "searx.mha.fi",
+    "searx.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion",
     "searx.mxchange.org",
     "searx.nakhan.net",
     "searx.namejeff.xyz",
