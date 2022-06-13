@@ -15,8 +15,8 @@
     "inv.bp.projectsegfau.lt",
     "invidious.projectsegfau.lt",
     "invidious.weblibre.org",
-    "invidious.esmailelbob.xyz",
     "youtube.076.ne.jp",
+    "invidious.esmailelbob.xyz",
     "invidious.namazso.eu",
     "invidious.kavin.rocks",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
@@ -139,7 +139,8 @@
     "teddit.adminforge.de",
     "teddit.bus-hit.me",
     "teddit.froth.zone",
-    "trom.tf"
+    "trom.tf",
+    "teddit.encrypted-data.xyz"
   ],
   "wikiless": [
     "wikiless.org",
@@ -268,7 +269,6 @@
     "searx.stuehieyr.com",
     "searx.tiekoetter.com",
     "searx3aolosaf3urwnhpynlhuokqsgz47si4pzz5hvb7uuzyjncl2tid.onion",
-    "searx.tux.land",
     "searx.tuxcloud.net",
     "searx.tyil.nl",
     "searx.webheberg.info",
