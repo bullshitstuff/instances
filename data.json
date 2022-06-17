@@ -5,6 +5,7 @@
     "invidious.snopyta.org",
     "invidious.kavin.rocks",
     "inv.riverside.rocks",
+    "invidious.osi.kr",
     "y.com.sb",
     "tube.cthd.icu",
     "yt.artemislena.eu",
@@ -12,12 +13,11 @@
     "invidious.tiekoetter.com",
     "invidious.lunar.icu",
     "invidious.sethforprivacy.com",
+    "inv.bp.projectsegfau.lt",
     "invidious.projectsegfau.lt",
+    "invidious.esmailelbob.xyz",
     "invidious.weblibre.org",
     "youtube.076.ne.jp",
-    "invidious.esmailelbob.xyz",
-    "inv.bp.projectsegfau.lt",
-    "invidious.osi.kr",
     "invidious.namazso.eu",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
     "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
@@ -306,7 +306,6 @@
     "search.dr460nf1r3.org",
     "search.sethforprivacy.com",
     "whoogle.fossho.st",
-    "whooglesearch.net",
     "www.whooglesearch.ml",
     "whoogle.dcs0.hu",
     "whoogle.esmailelbob.xyz",
@@ -314,21 +313,95 @@
     "whoogle.privacydev.net"
   ],
   "rimgo": [
-    "i.bcow.xyz",
-    "rimgo.pussthecat.org",
-    "img.riverside.rocks",
-    "rimgo.totaldarkness.net",
-    "rimgo.bus-hit.me",
-    "rimgo.esmailelbob.xyz",
-    "rimgo.lunar.icu",
-    "i.actionsack.com",
-    "rimgo.privacydev.net",
-    "imgur.artemislena.eu",
-    "rimgo.vern.cc",
-    "jx3dpcwedpzu2mh54obk5gvl64i2ln7pt5mrzd75s4jnndkqwzaim7ad.onion",
-    "rimgo.lqs5fjmajyp7rvp4qvyubwofzi6d4imua7vs237rkc4m5qogitqwrgyd.onion",
-    "be7udfhmnzqyt7cxysg6c4pbawarvaofjjywp35nhd5qamewdfxl6sid.onion",
-    "rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
-    "xazdnfgtzmcbcxhmcbbvr4uodd6jtn4fdiayasghywdn227xsmoa.b32.i2p"
+    {
+      "url": "https://i.bcow.xyz",
+      "countries": [
+        "ca",
+        "nl",
+        "sg"
+      ],
+      "cloudflare": false
+    },
+    {
+      "url": "https://rimgo.pussthecat.org",
+      "countries": [
+        "de"
+      ],
+      "cloudflare": false
+    },
+    {
+      "url": "https://img.riverside.rocks",
+      "onion": "http://jx3dpcwedpzu2mh54obk5gvl64i2ln7pt5mrzd75s4jnndkqwzaim7ad.onion",
+      "countries": [
+        "us"
+      ],
+      "cloudflare": false
+    },
+    {
+      "url": "rimgo.totaldarkness.net",
+      "countries": [
+        "ca"
+      ],
+      "cloudflare": false
+    },
+    {
+      "url": "https://rimgo.bus-hit.me",
+      "countries": [
+        "ca"
+      ],
+      "cloudflare": false
+    },
+    {
+      "url": "https://rimgo.esmailelbob.xyz",
+      "onion": "http://rimgo.lqs5fjmajyp7rvp4qvyubwofzi6d4imua7vs237rkc4m5qogitqwrgyd.onion",
+      "countries": [
+        "ca"
+      ],
+      "cloudflare": false
+    },
+    {
+      "url": "https://rimgo.lunar.icu",
+      "countries": [
+        "de"
+      ],
+      "cloudflare": true
+    },
+    {
+      "url": "https://i.actionsack.com",
+      "countries": [
+        "us"
+      ],
+      "cloudflare": true
+    },
+    {
+      "url": "https://rimgo.privacydev.net",
+      "countries": [
+        "us"
+      ],
+      "cloudflare": false
+    },
+    {
+      "url": "https://imgur.artemislena.eu",
+      "countries": [
+        "de"
+      ],
+      "cloudflare": false
+    },
+    {
+      "url": "https://rimgo.vern.cc",
+      "onion": "http://rimgo.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+      "countries": [
+        "ca"
+      ],
+      "cloudflare": true
+    },
+    {
+      "onion": "http://be7udfhmnzqyt7cxysg6c4pbawarvaofjjywp35nhd5qamewdfxl6sid.onion",
+      "i2p": "http://xazdnfgtzmcbcxhmcbbvr4uodd6jtn4fdiayasghywdn227xsmoa.b32.i2p",
+      "countries": [
+        "au"
+      ],
+      "cloudflare": false
+    }
   ]
 }
