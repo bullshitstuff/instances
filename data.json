@@ -11,15 +11,15 @@
     "invidious.flokinet.to",
     "invidious.tiekoetter.com",
     "invidious.sethforprivacy.com",
-    "inv.bp.projectsegfau.lt",
     "invidious.projectsegfau.lt",
-    "invidious.nerdvpn.de",
     "inv.vern.cc",
+    "invidious.nerdvpn.de",
     "invidious.slipfox.xyz",
     "youtube.076.ne.jp",
     "invidious.esmailelbob.xyz",
     "invidious.weblibre.org",
     "invidious.namazso.eu",
+    "inv.bp.projectsegfau.lt",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
     "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
     "kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion",
@@ -156,9 +156,6 @@
       "url": "https://wikiless.org"
     },
     {
-      "url": "https://wikiless.alefvanoon.xyz"
-    },
-    {
       "url": "https://wikiless.sethforprivacy.com",
       "onion": "http://dj2tbh2nqfxyfmvq33cjmhuw7nb6am7thzd3zsjvizeqf374fixbrxyd.onion"
     },
@@ -248,6 +245,7 @@
     "search.disroot.org",
     "search.ethibox.fr",
     "search.jpope.org",
+    "search.kiwitalk.de",
     "search.mdosch.de",
     "search.neet.works",
     "search.ononoki.org",
