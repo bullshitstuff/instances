@@ -124,9 +124,10 @@
     "bibliogram.froth.zone",
     "insta.trom.tf",
     "insta.tromdienste.de",
-    "biblio.alefvanoon.xyz",
+    "ig.tokhmi.xyz",
     "ig.beparanoid.de",
     "bibliogram.privacydev.net",
+    "bibliogram.priv.pw",
     "bib.actionsack.com"
   ],
   "teddit": [
@@ -229,6 +230,7 @@
     "de.xcxc.ml",
     "dynabyte.ca",
     "etsi.me",
+    "icanfindit.online",
     "jsearch.pw",
     "nibblehole.com",
     "northboot.xyz",
@@ -236,6 +238,7 @@
     "notgoogle.win",
     "opnxng.com",
     "paulgo.io",
+    "privatus.live",
     "s.frlt.one",
     "s.zhaocloud.net",
     "search.ashs.club",
@@ -427,7 +430,22 @@
       "countries": [
         "ca"
       ],
+      "cloudflare": false
+    },
+    {
+      "url": "https://rimgo.encrypted-data.xyz",
+      "countries": [
+        "fr"
+      ],
       "cloudflare": true
+    },
+    {
+      "url": "https://rimgo.mha.fi",
+      "onion": "http://rimgo.micohauwkjbyw5meacrb4ipicwvwg4xtzl7y7viv53kig2mdcsvwkyyd.onion",
+      "countries": [
+        "fi"
+      ],
+      "cloudflare": false
     }
   ]
 }
