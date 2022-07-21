@@ -156,7 +156,8 @@
     "rdt.trom.tf",
     "teddit.encrypted-data.xyz",
     "i.opnxng.com",
-    "teddit.tokhmi.xyz"
+    "teddit.tokhmi.xyz",
+    "teddit.garudalinux.org"
   ],
   "wikiless": [
     {
@@ -198,6 +199,9 @@
     },
     {
       "url": "https://wiki.slipfox.xyz"
+    },
+    {
+      "url": "https://wikiless.funami.tech"
     }
   ],
   "scribe": [
@@ -248,6 +252,7 @@
     "privatus.live",
     "s.frlt.one",
     "s.zhaocloud.net",
+    "search.affusio.com",
     "search.ashs.club",
     "search3q76rqpektbrchlf2rjq4fnbxzeov6rljdywg3nwbunpgd7bid.onion",
     "search.bingowaves.xyz",
@@ -309,6 +314,7 @@
     "rq2w52kyrif3xpfihkgjnhqm3a5aqhoikpv72z3drpjglfzc2wr5z4yd.onion",
     "searx.pwoss.org",
     "searx.rasp.fr",
+    "searx.rimkus.it",
     "searx.ru",
     "searx.run",
     "searx.semipvt.com",
