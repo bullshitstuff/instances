@@ -14,12 +14,12 @@
     "inv.bp.projectsegfau.lt",
     "invidious.projectsegfau.lt",
     "inv.vern.cc",
+    "invidious.nerdvpn.de",
     "inv.privacy.com.de",
     "invidious.slipfox.xyz",
     "invidious.weblibre.org",
     "youtube.076.ne.jp",
     "invidious.esmailelbob.xyz",
-    "invidious.nerdvpn.de",
     "invidious.namazso.eu",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
     "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
@@ -393,7 +393,7 @@
       "cloudflare": false
     },
     {
-      "url": "rimgo.totaldarkness.net",
+      "url": "https://rimgo.totaldarkness.net",
       "countries": [
         "ca"
       ],
