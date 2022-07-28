@@ -187,7 +187,7 @@
     {
       "url": "https://wikiless.northboot.xyz",
       "onion": "http://ybgg2evrcdz37y2qes23ff3wjqjdn33tthgoagi76vhxytu4mpxiz5qd.onion",
-      "i2p": "wikiless.i2p"
+      "i2p": "http://wikiless.i2p"
     },
     {
       "url": "https://wikiless.tiekoetter.com"
@@ -347,6 +347,7 @@
     "searxng.tordenskjold.de",
     "searxng.zackptg5.com",
     "serx.ml",
+    "sh0.it",
     "spot.ecloud.global",
     "srx.cosmohub.io",
     "suche.dasnetzundich.de",
@@ -358,6 +359,7 @@
     "www.gruble.de",
     "www.webrats.xyz",
     "xcxc.ml",
+    "xo.wtf",
     "searx.roflcopter.fr"
   ],
   "whoogle": [
