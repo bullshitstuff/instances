@@ -10,6 +10,7 @@
     "yt.artemislena.eu",
     "invidious.flokinet.to",
     "invidious.sethforprivacy.com",
+    "invidious.tiekoetter.com",
     "inv.bp.projectsegfau.lt",
     "invidious.projectsegfau.lt",
     "inv.vern.cc",
@@ -18,7 +19,6 @@
     "invidious.slipfox.xyz",
     "invidious.weblibre.org",
     "youtube.076.ne.jp",
-    "invidious.tiekoetter.com",
     "invidious.namazso.eu",
     "invidious.esmailelbob.xyz",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
@@ -161,7 +161,8 @@
     "i.opnxng.com",
     "teddit.tokhmi.xyz",
     "teddit.garudalinux.org",
-    "tedd.it"
+    "tedd.it",
+    "wiki.privacytools.io"
   ],
   "wikiless": [
     {
@@ -206,6 +207,14 @@
     },
     {
       "url": "https://wikiless.funami.tech"
+    },
+    {
+      "url": "https://wl.vern.cc",
+      "onion": "http://wl.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+      "i2p": "http://vernesciy2defjsputrjrv6pa5ll6qzrckfffi5lgkumstdojyga.b32.i2p"
+    },
+    {
+      "url": "https://wiki.privacytools.io"
     }
   ],
   "scribe": [
