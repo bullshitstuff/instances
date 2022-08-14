@@ -5,7 +5,6 @@
     "invidious.snopyta.org",
     "invidious.kavin.rocks",
     "inv.riverside.rocks",
-    "invidious.osi.kr",
     "y.com.sb",
     "yt.artemislena.eu",
     "invidious.flokinet.to",
@@ -17,9 +16,10 @@
     "invidious.nerdvpn.de",
     "inv.privacy.com.de",
     "invidious.slipfox.xyz",
-    "invidious.weblibre.org",
     "youtube.076.ne.jp",
+    "invidious.weblibre.org",
     "invidious.namazso.eu",
+    "invidious.osi.kr",
     "invidious.esmailelbob.xyz",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
     "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
@@ -98,6 +98,8 @@
     "uk.unofficialbird.com",
     "n.l5.ca",
     "nitter.slipfox.xyz",
+    "nitter.soopy.moe",
+    "nitter.qwik.space",
     "3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion",
     "nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion",
     "nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion",
@@ -122,7 +124,8 @@
     "nitterqdyumlovt7tjqpdjrluitgmtpa53qq3idlpgoe4kxo7gs3xvad.onion",
     "nitter.privpw3tndpkw6pnp3g727zfgfdzbu3k6a7chv226s3xymv2p4eiuqyd.onion",
     "aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion",
-    "wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion"
+    "wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion",
+    "qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion"
   ],
   "bibliogram": [
     "bibliogram.art",
@@ -162,7 +165,8 @@
     "teddit.tokhmi.xyz",
     "teddit.garudalinux.org",
     "tedd.it",
-    "wiki.privacytools.io"
+    "wiki.privacytools.io",
+    "td.vern.cc"
   ],
   "wikiless": [
     {
@@ -276,7 +280,7 @@
     "search.mdosch.de",
     "search.neet.works",
     "search.ononoki.org",
-    "searchoorwalty5a2ailrboa2asqyts2u7bdoqwnjefpgjobpvtzn4qd.onion",
+    "searxngg6zleq6ceboe5ltkyo4hyrb3aaycrgzmrljv3jjlb5vcytead.onion",
     "search.privacyguides.net",
     "search.projectsegfau.lt",
     "search.rabbit-company.com",
@@ -292,6 +296,7 @@
     "search.vidhukant.xyz",
     "search.zzls.xyz",
     "searxdr3pqz4nydgnqocsia2xbywptxbkympa2emn7zlgggrir4bkfad.onion",
+    "searx.baczek.me",
     "searx.be",
     "searx.becomesovran.com",
     "searx.bissisoft.com",
