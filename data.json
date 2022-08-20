@@ -3,6 +3,7 @@
     "yewtu.be",
     "vid.puffyan.us",
     "invidious.snopyta.org",
+    "invidious.kavin.rocks",
     "inv.riverside.rocks",
     "y.com.sb",
     "yt.artemislena.eu",
@@ -13,14 +14,13 @@
     "invidious.projectsegfau.lt",
     "inv.vern.cc",
     "invidious.nerdvpn.de",
+    "inv.privacy.com.de",
     "invidious.slipfox.xyz",
     "youtube.076.ne.jp",
     "invidious.weblibre.org",
-    "invidious.kavin.rocks",
     "invidious.namazso.eu",
-    "invidious.esmailelbob.xyz",
     "invidious.osi.kr",
-    "inv.privacy.com.de",
+    "invidious.esmailelbob.xyz",
     "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
     "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
     "kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion",
@@ -102,6 +102,7 @@
     "nitter.soopy.moe",
     "nitter.qwik.space",
     "read.whatever.social",
+    "nitter.rawbit.ninja",
     "3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion",
     "nitter.l4qlywnpwqsluw65ts7md3khrivpirse744un3x7mlskqauz5pyuzgqd.onion",
     "nitter7bryz3jv7e3uekphigvmoyoem4al3fynerxkj22dmoxoq553qd.onion",
@@ -127,7 +128,8 @@
     "nitter.privpw3tndpkw6pnp3g727zfgfdzbu3k6a7chv226s3xymv2p4eiuqyd.onion",
     "aaaaaxx74hbzeibageieowryhsqvimbdiitfkfe47tvgawkwkjh3coqd.onion",
     "wiio4sgs4247brk7hj6qck2jxnvldwfdbguigc5ivpxrsegnliyfvuqd.onion",
-    "qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion"
+    "qwikxx2erhx6qrymued6ox2qkf2yeogjwypqvzoif4fqkljixasr6oid.onion",
+    "4g47cxugkohbweao2x66nnxxfoe3k7gdfzxej537nhdbwr522sbjxeqd.onion"
   ],
   "bibliogram": [
     "bibliogram.art",
@@ -168,7 +170,8 @@
     "teddit.garudalinux.org",
     "tedd.it",
     "wiki.privacytools.io",
-    "td.vern.cc"
+    "td.vern.cc",
+    "teddit.rawbit.ninja"
   ],
   "wikiless": [
     {
@@ -221,6 +224,10 @@
     },
     {
       "url": "https://wiki.privacytools.io"
+    },
+    {
+      "url": "https://wikiless.rawbit.ninja",
+      "onion": "http://tdx37ew3oke5rxn3yi5r5665ka7ozvehnd4xmnjxxdvqorias2nyl4qd.onion"
     }
   ],
   "scribe": [
@@ -255,7 +262,6 @@
     "ransack.i2p",
     "mqamk4cfykdvhw5kjez2gnvse56gmnqxn7vkvvbuor4k4j2lbbnq.b32.i2p",
     "w5rl6wsd7mzj4bdkbuqvzidet5osdsm5jhg2f7nvfidakfq5exda5wid.onion",
-    "anon.sx",
     "darmarit.org",
     "de.xcxc.ml",
     "dynabyte.ca",
@@ -287,6 +293,7 @@
     "search.privacyguides.net",
     "search.projectsegfau.lt",
     "search.rabbit-company.com",
+    "search.rhscze.cf",
     "search.sapti.me",
     "gbat2pbpg7ys3fi3pbp64667tt5x66mg45xok35bxdw7v55brm7a27yd.onion",
     "search.snopyta.org",
