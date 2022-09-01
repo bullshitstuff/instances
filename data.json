@@ -1,7 +1,9 @@
 {
   "invidious": [
     "yewtu.be",
+    "vid.puffyan.us",
     "invidious.snopyta.org",
+    "inv.riverside.rocks",
     "invidio.xamh.de",
     "y.com.sb",
     "yt.artemislena.eu",
@@ -16,21 +18,19 @@
     "invidious.slipfox.xyz",
     "invidious.esmailelbob.xyz",
     "youtube.076.ne.jp",
-    "invidious.kavin.rocks",
-    "vid.puffyan.us",
-    "invidious.namazso.eu",
-    "inv.riverside.rocks",
-    "invidious.flokinet.to",
     "invidious.weblibre.org",
-    "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
-    "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
-    "kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion",
-    "grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
-    "osbivz6guyeahrwp2lnwyjk2xos342h4ocsxyqrlaopqjuhwn2djiiyd.onion",
-    "u2cvlit75owumwpy4dj2hsmvkq7nvrclkpht7xgyye2pyoxhpmclkrad.onion",
-    "euxxcnhsynwmfidvhjf6uzptsmh4dipkmgdmcmxxuo7tunp3ad2jrwyd.onion",
-    "invidious.lqs5fjmajyp7rvp4qvyubwofzi6d4imua7vs237rkc4m5qogitqwrgyd.onion",
+    "invidious.flokinet.to",
+    "invidious.namazso.eu",
+    "invidious.kavin.rocks",
     "inv.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion",
+    "invidious.lqs5fjmajyp7rvp4qvyubwofzi6d4imua7vs237rkc4m5qogitqwrgyd.onion",
+    "euxxcnhsynwmfidvhjf6uzptsmh4dipkmgdmcmxxuo7tunp3ad2jrwyd.onion",
+    "u2cvlit75owumwpy4dj2hsmvkq7nvrclkpht7xgyye2pyoxhpmclkrad.onion",
+    "osbivz6guyeahrwp2lnwyjk2xos342h4ocsxyqrlaopqjuhwn2djiiyd.onion",
+    "grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion",
+    "kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion",
+    "w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion",
+    "c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion",
     "am74vkcrjp2d5v36lcdqgsj2m6x36tbrkhsruoegwfcizzabnfgf5zyd.onion"
   ],
   "nitter": [
@@ -412,9 +412,7 @@
     {
       "url": "https://i.bcow.xyz",
       "countries": [
-        "ca",
-        "nl",
-        "sg"
+        "de"
       ],
       "cloudflare": false
     },
@@ -446,13 +444,6 @@
         "ca"
       ],
       "cloudflare": false
-    },
-    {
-      "url": "https://rimgo.lunar.icu",
-      "countries": [
-        "de"
-      ],
-      "cloudflare": true
     },
     {
       "url": "https://i.actionsack.com",
