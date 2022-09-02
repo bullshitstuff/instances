@@ -277,6 +277,7 @@
     "metasearch.nl",
     "northboot.xyz",
     "4n53nafyi77iplnbrpmxnp3x4exbswwxigujaxy3b37fvr7bvlopxeyd.onion",
+    "notsearch.uk",
     "opnxng.com",
     "paulgo.io",
     "priv.au",
@@ -412,7 +413,8 @@
     {
       "url": "https://i.bcow.xyz",
       "countries": [
-        "de"
+        "ca",
+        "nl"
       ],
       "cloudflare": false
     },
